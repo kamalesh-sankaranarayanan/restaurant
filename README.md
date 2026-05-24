@@ -25,11 +25,9 @@ This application improves efficiency and provides a better dining management exp
 ---
 
 ## Technologies Used
-- Python
-- Flask
 - HTML
 - CSS
-- JavaScript
+- PHP
 - MySQL
 
 ---
